@@ -18,5 +18,5 @@
 
 &nbsp;
 
-###### *- Material utilizado nas aulas de GIT e GITHUB; pelo professor  Otávio Reis Perkles* ######
+###### *- Material utilizado nas aulas de GIT e GITHUB, pelo professor  Otávio Reis Perkles;* ######
 ###### *- Digital Innovation One (Bootcamp: Inter Java Developer)* ######
